@@ -1,0 +1,206 @@
+Region,Country,Event,Kill_Wound
+"Australasia& Oceania",Australia,104,111
+"Australasia& Oceania",Fiji,17,26
+"Australasia& Oceania",French Polynesia,3,13
+"Australasia& Oceania",New Caledonia,31,58
+"Australasia& Oceania",New Hebrides,1,0
+"Australasia& Oceania",New Zealand,20,3
+"Australasia& Oceania",Papua New Guinea,81,167
+"Australasia& Oceania",Solomon Islands,4,4
+"Australasia& Oceania",Vanuatu,2,0
+"Australasia& Oceania",Awallis and Futuna,1,0
+"Central America &Caribbean & North America",Antigua and Barbuda,1,0
+"Central America &Caribbean & North America",Bahamas,5,1
+"Central America &Caribbean & North America",Barbados,3,79
+"Central America &Caribbean & North America",Belize,8,3
+"Central America &Caribbean & North America",Canada,84,480
+"Central America &Caribbean & North America",Costa Rica,67,55
+"Central America &Caribbean & North America",Cuba,30,18
+"Central America &Caribbean & North America",Dominica,3,13
+"Central America &Caribbean & North America",Dominican Republic,89,115
+"Central America &Caribbean & North America",El Salvador,5320,17115
+"Central America &Caribbean & North America",Grenada,5,30
+"Central America &Caribbean & North America",Guadeloupe,56,53
+"Central America &Caribbean & North America",Guatemala,2050,6398
+"Central America &Caribbean & North America",Haiti,213,636
+"Central America &Caribbean & North America",Honduras,322,545
+"Central America &Caribbean & North America",Jamaica,34,78
+"Central America &Caribbean & North America",Martinique,12,1
+"Central America &Caribbean & North America",Mexico,504,1434
+"Central America &Caribbean & North America",Nicaragua,1970,12329
+"Central America &Caribbean & North America",Panama,127,121
+"Central America &Caribbean & North America",St.Kitts and Nevis,2,9
+"Central America &Caribbean & North America",St.Lucia,1,14
+"Central America &Caribbean & North America",Trinidad and Tobago,22,41
+"Central America &Caribbean & North America",United States,2758,21743
+"Central Asia & South Asia",Afghanistan,11306,71374
+"Central Asia & South Asia",Armenia,24,108
+"Central Asia & South Asia",Azerbaijan,47,438
+"Central Asia & South Asia",Bangladesh,1605,9206
+"Central Asia & South Asia",Bhutan,6,14
+"Central Asia & South Asia",Georgia,216,665
+"Central Asia & South Asia",India,10978,47083
+"Central Asia & South Asia",Kazakhstan,27,60
+"Central Asia & South Asia",Kyrgyzstan,32,35
+"Central Asia & South Asia",Maldives,18,21
+"Central Asia & South Asia",Mauritius,2,1
+"Central Asia & South Asia",Nepal,967,4022
+"Central Asia & South Asia",Pakistan,13634,62659
+"Central Asia & South Asia",Sri Lanka,2981,31086
+"Central Asia & South Asia",Tajikistan,185,1414
+"Central Asia & South Asia",Turkmenistan,2,6
+"Central Asia & South Asia",Uzbekistan,21,268
+"East Asia & Southeast Asia",Brunei,1,1
+"East Asia & Southeast Asia",Cambodia,258,1329
+"East Asia & Southeast Asia",China,247,2771
+"East Asia & Southeast Asia",East Timor,0,16
+"East Asia & Southeast Asia",Hong Kong,26,106
+"East Asia & Southeast Asia",Indonesia,735,3636
+"East Asia & Southeast Asia",Japan,401,7064
+"East Asia & Southeast Asia",Laos,26,99
+"East Asia & Southeast Asia",Macau,33,47
+"East Asia & Southeast Asia",Malaysia,95,247
+"East Asia & Southeast Asia",Myanmar,430,2652
+"East Asia & Southeast Asia",North Korea,1,7
+"East Asia & Southeast Asia",Philippines,6212,21752
+"East Asia & Southeast Asia",Singapore,7,8
+"East Asia & Southeast Asia",South Korea,38,144
+"East Asia & Southeast Asia",South Vietnam,1,81
+"East Asia & Southeast Asia",Taiwan,48,146
+"East Asia & Southeast Asia",Thailand,3668,10217
+"East Asia & Southeast Asia",Vietnam,10,28
+"Eastern Europe",Albania,79,168
+"Eastern Europe",Belarus,13,226
+"Eastern Europe",Bosnia-Herzegovina,159,229
+"Eastern Europe",Bulgaria,52,64
+"Eastern Europe",Croatia,57,321
+"Eastern Europe",Czech Republic,29,35
+"Eastern Europe",Czechoslovakia,10,50
+"Eastern Europe",East Germany (GDR),38,39
+"Eastern Europe",Estonia,16,14
+"Eastern Europe",Hungary,46,23
+"Eastern Europe",Kosovo,188,444
+"Eastern Europe",Latvia,16,38
+"Eastern Europe",Lithuania,8,3
+"Eastern Europe",Macedonia,117,109
+"Eastern Europe",Moldova,21,101
+"Eastern Europe",Motenegro,5,1
+"Eastern Europe",Poland,36,38
+"Eastern Europe",Romania,6,13
+"Eastern Europe",Russia,2158,11578
+"Eastern Europe",Serbia,11,11
+"Eastern Europe",Serbia-Montenegro,11,8
+"Eastern Europe",Slovak Republic,18,18
+"Eastern Europe",Slovenia,6,3
+"Eastern Europe",Soviet Union,78,246
+"Eastern Europe",Ukraine,1650,4997
+"Eastern Europe",Yugoslavia,203,400
+"Middle Ease & North Africa",Algeria,2729,20155
+"Middle Ease & North Africa",Bahrain,186,201
+"Middle Ease & North Africa",Egypt,2165,7088
+"Middle Ease & North Africa",International,1,13
+"Middle Ease & North Africa",Iran,676,5702
+"Middle Ease & North Africa",Iraq,22130,200519
+"Middle Ease & North Africa",Israel,2133,9392
+"Middle Ease & North Africa",Jordan,101,388
+"Middle Ease & North Africa",Kuwait,76,363
+"Middle Ease & North Africa",Lebanon,2454,14891
+"Middle Ease & North Africa",Libya,2053,5440
+"Middle Ease & North Africa",Morocco,36,492
+"Middle Ease & North Africa",North Yemen,6,4
+"Middle Ease & North Africa",Qatar,7,20
+"Middle Ease & North Africa",Saudi Arabia,317,2237
+"Middle Ease & North Africa",South Yemen,2,2
+"Middle Ease & North Africa",Syria,1949,25858
+"Middle Ease & North Africa",Tunisia,104,754
+"Middle Ease & North Africa",Turkey,4106,16236
+"Middle Ease & North Africa",United Arab Emirates,22,150
+"Middle Ease & North Africa",West Bank and Gaza Strip,2144,4389
+"Middle Ease & North Africa",Western Sahara,5,5
+"Middle Ease & North Africa",Yemen,3109,16627
+"South America",Argentina,806,1244
+"South America",Bolivia,314,208
+"South America",Brazil,268,363
+"South America",Chile,2351,979
+"South America",Colombia,8163,24799
+"South America",Ecuador,217,126
+"South America",Falkland Islands,1,0
+"South America",French Guiana,7,14
+"South America",Guyana,26,65
+"South America",Paraguay,104,122
+"South America",Peru,6088,16837
+"South America",Suriname,66,53
+"South America",Uruguay,76,12
+"South America",Venezuela,275,430
+"Sub-Saharan Africa",Angola,493,5080
+"Sub-Saharan Africa",Benin,8,8
+"Sub-Saharan Africa",Botswana,10,22
+"Sub-Saharan Africa",Burkina Faso,20,255
+"Sub-Saharan Africa",Burundi,587,6507
+"Sub-Saharan Africa",Cameroon,234,2910
+"Sub-Saharan Africa",Central African Republic,235,2091
+"Sub-Saharan Africa",Chad,85,2737
+"Sub-Saharan Africa",Comoros,5,3
+"Sub-Saharan Africa",Democratic Republic of the Congo,628,4625
+"Sub-Saharan Africa",Djibouti,21,436
+"Sub-Saharan Africa",Equatorial Guinea,2,5
+"Sub-Saharan Africa",Eritrea,10,108
+"Sub-Saharan Africa",Ethiopia,163,2859
+"Sub-Saharan Africa",Gabon,4,7
+"Sub-Saharan Africa",Gambia,3,15
+"Sub-Saharan Africa",Ghana,19,32
+"Sub-Saharan Africa",Guinea,25,270
+"Sub-Saharan Africa",Guinea-Bissau,9,44
+"Sub-Saharan Africa",Ivory Coast,61,434
+"Sub-Saharan Africa",Kenya,582,7982
+"Sub-Saharan Africa",Lesotho,29,80
+"Sub-Saharan Africa",Liberia,33,213
+"Sub-Saharan Africa",Madagascar,27,216
+"Sub-Saharan Africa",Malawi,4,33
+"Sub-Saharan Africa",Mali,417,2019
+"Sub-Saharan Africa",Mauritania,18,71
+"Sub-Saharan Africa",Mozambique,351,4195
+"Sub-Saharan Africa",Namibia,151,626
+"Sub-Saharan Africa",Niger,139,1716
+"Sub-Saharan Africa",Nigeria,3418,29954
+"Sub-Saharan Africa",People's Republic of the Congo,3,15
+"Sub-Saharan Africa",Republic of the Congo,34,235
+"Sub-Saharan Africa",Rhodesia,83,375
+"Sub-Saharan Africa",Rwanda,157,4148
+"Sub-Saharan Africa",Senegal,118,648
+"Sub-Saharan Africa",Seychelles,2,0
+"Sub-Saharan Africa",Sierra Leone,98,962
+"Sub-Saharan Africa",Somalia,3482,15770
+"Sub-Saharan Africa",South Africa,1987,7191
+"Sub-Saharan Africa",South Sudan,171,3118
+"Sub-Saharan Africa",Sudan,861,5794
+"Sub-Saharan Africa",Swaziland,16,9
+"Sub-Saharan Africa",Tanzania,53,295
+"Sub-Saharan Africa",Togo,48,110
+"Sub-Saharan Africa",Uganda,381,4201
+"Sub-Saharan Africa",Zaire,48,540
+"Sub-Saharan Africa",Zambia,60,132
+"Sub-Saharan Africa",Zimbabwe,98,375
+"Western Europe",Andorra,1,0
+"Western Europe",Austria,109,154
+"Western Europe",Belgium,148,591
+"Western Europe",Cyprus,132,86
+"Western Europe",Denmark,41,34
+"Western Europe",Finland,18,26
+"Western Europe",France,2642,3015
+"Western Europe",Germany,703,756
+"Western Europe",Greece,1231,1050
+"Western Europe",Iceland,4,0
+"Western Europe",Ireland,90,148
+"Western Europe",Italy,1556,1591
+"Western Europe",Luxembourg,16,6
+"Western Europe",Malta,20,16
+"Western Europe",Netherlands,128,94
+"Western Europe",Norway,18,167
+"Western Europe",Portugal,139,127
+"Western Europe",Spain,3245,6079
+"Western Europe",Seden,118,65
+"Western Europe",Switzerland,108,168
+"Western Europe",United Kingdom,5098,9166
+"Western Europe",Vatican City,1,3
+"Western Europe",West Germany (FRG),541,959
