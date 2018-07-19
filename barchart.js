@@ -2,7 +2,7 @@ function bar(time){
 ///
 
 d3.select("#txt").remove();
-	
+d3.selectAll(".tooltip").remove();	
 	
 if(time == 0){
 button = d3.select("#buttons").append("div").attr("id","buttons2").style("height", "100px")
