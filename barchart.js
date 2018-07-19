@@ -156,7 +156,7 @@ function change(dataset, label){
 			if(k == "pa"){
 				note = tooltip.html("2001: Al-Qaeda Spreads around Pakistan after Afghanistan War")
 				    .style("left", 100 + "px")
-					.style("top", 165 + "px")
+					.style("top", 400 + "px")
 					.style("font-size", "16pt")
 			}
 			if(k == "ni"){
