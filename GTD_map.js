@@ -1,7 +1,7 @@
 	function map(){
 		d3.select("#txt").remove();
 		d3.selectAll("svg").remove();
-		
+		d3.selectAll(".tooltip").remove();
 		var width = 1200;
 		var height = 720;
 	
