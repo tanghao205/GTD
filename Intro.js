@@ -1,6 +1,6 @@
 function story(){
 	d3.selectAll("svg").remove();
-	
+	d3.selectAll(".tooltip").remove();
 	
 	d3.select("body").append("div").attr("id", "txt").attr("class","essay").append("p").text("This project is to present the terrorist activities distribution (I.), torrorism development in the major affected countries(II.) and comparison of the affected people in torrorism event(III.). Please review this presentation with the buttons and their order.").style("font-family" , "'Arial Black', Gadget, sans-serif").style("font-size" , "18pt");
 	
