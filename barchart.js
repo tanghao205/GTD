@@ -2,7 +2,8 @@ function bar(time){
 ///
 
 d3.select("#txt").remove();
-
+d3.selectAll(".tooltip").remove();	
+	
 if(time == 0){
 button = d3.select("#buttons").append("div").attr("id","buttons2").style("height", "100px")
          .attr("transform","translate(0,7)");
@@ -128,8 +129,52 @@ function change(dataset, label){
 		.append("div")
 		.attr("class","tooltip")
 		.style("opacity",0.0);		
-
-		//添加矩形元素
+        note = tooltip.html("2003 : US start invasion to IRAQ ")
+					.style("left", 150 + "px")
+					.style("top", 400 + "px")
+					.style("font-size", "20pt")
+			}
+			if(k == "us"){
+				note = tooltip.html("2001 : 911")
+				    .style("left", 200 + "px")
+					.style("top", 400 + "px")
+					.style("font-size", "20pt")
+			}
+			if(k == "af"){
+				note = tooltip.html("2001 : Afghanistan War")
+				    .style("left", 200 + "px")
+					.style("top", 400 + "px")
+					.style("font-size", "20pt")
+			}
+			if(k == "in"){
+				note = tooltip.html("")
+				    .style("left", 200 + "px")
+					.style("top", 400 + "px")
+					.style("font-size", "20pt")
+			}
+			if(k == "pa"){
+				note = tooltip.html("2001: Al-Qaeda Spreads around Pakistan after Afghanistan War")
+				    .style("left", 100 + "px")
+					.style("top", 165 + "px")
+					.style("font-size", "16pt")
+			}
+			if(k == "ni"){
+				note = tooltip.html("2009-2010: Rise of Boko Haram")
+				    .style("left", 200 + "px")
+					.style("top", 400 + "px")
+					.style("font-size", "20pt")
+			}
+			if(k == "sy"){
+				note = tooltip.html("2011: Syria Civil War, Rise of ISIL")
+				    .style("left", 200 + "px")
+					.style("top", 400 + "px")
+					.style("font-size", "20pt")
+			}
+			
+			note.style("color","red")
+		            .style("opacity",0.9);
+	
+		//add rect
 	svg = d3.select("body").append("svg").attr("width", width).attr("height", height)
 	      .attr("transform","translate(0,40)")
 	var rects = svg.selectAll(".MyRect")
@@ -197,58 +242,13 @@ function change(dataset, label){
 			}
 			
 			if(k == "ir"){
-                note = tooltip.html("2003 : US start invasion to IRAQ ")
-					.style("left", 150 + "px")
-					.style("top", 400 + "px")
-					.style("font-size", "20pt")
-			}
-			if(k == "us"){
-				note = tooltip.html("2001 : 911")
-				    .style("left", 200 + "px")
-					.style("top", 400 + "px")
-					.style("font-size", "20pt")
-			}
-			if(k == "af"){
-				note = tooltip.html("2001 : Afghanistan War")
-				    .style("left", 200 + "px")
-					.style("top", 400 + "px")
-					.style("font-size", "20pt")
-			}
-			if(k == "in"){
-				note = tooltip.html("")
-				    .style("left", 200 + "px")
-					.style("top", 400 + "px")
-					.style("font-size", "20pt")
-			}
-			if(k == "pa"){
-				note = tooltip.html("2001: Al-Qaeda Spreads around Pakistan after Afghanistan War")
-				    .style("left", 100 + "px")
-					.style("top", 165 + "px")
-					.style("font-size", "16pt")
-			}
-			if(k == "ni"){
-				note = tooltip.html("2009-2010: Rise of Boko Haram")
-				    .style("left", 200 + "px")
-					.style("top", 400 + "px")
-					.style("font-size", "20pt")
-			}
-			if(k == "sy"){
-				note = tooltip.html("2011: Syria Civil War, Rise of ISIL")
-				    .style("left", 200 + "px")
-					.style("top", 400 + "px")
-					.style("font-size", "20pt")
-			}
-			
-					note
-					.style("color","red")
-					.style("opacity",0.9);
+
 		})
 		.on("mouseout",function(d,i){
 			d3.select(this)
 				.transition()
 		        .duration(500)
 				.attr("fill","steelblue");
-			note.style("opacity",0.0);
 		});
     
 	//Add text and text animation
