@@ -128,8 +128,9 @@ function change(dataset, label){
 	var tooltip = d3.select("body")
 		.append("div")
 		.attr("class","tooltip")
-		.style("opacity",0.0);		
-        note = tooltip.html("2003 : US start invasion to IRAQ ")
+		.style("opacity",0.0);	
+	                if(k == "ir"){
+                                note = tooltip.html("2003 : US start invasion to IRAQ ")
 					.style("left", 150 + "px")
 					.style("top", 400 + "px")
 					.style("font-size", "20pt")
@@ -240,9 +241,6 @@ function change(dataset, label){
 			if(k=="in"){
 				d3.select(this).attr("fill","yellow");					
 			}
-			
-			if(k == "ir"){
-
 		})
 		.on("mouseout",function(d,i){
 			d3.select(this)
