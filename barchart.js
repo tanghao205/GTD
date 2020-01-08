@@ -97,7 +97,7 @@ function change(dataset, label){
 				
 	
 				
-	var padding = {left:80, right:30, top:200, bottom:40};
+	var padding = {left:80, right:30, top:20, bottom:40};
 	
 	//padding between rectangle
 	var rectPadding = 4;
