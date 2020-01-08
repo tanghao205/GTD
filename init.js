@@ -7,7 +7,7 @@ function init(){
 		.append("text")
 		.text("Exploration to Global Terrorism")
 		.attr("x",40)
-		.attr("y",40)
+		.attr("y",340)
 		.style("font-family", "Courier New")
 		.style("font-size", "45pt")
 		.attr("fill","steelblue");
